@@ -1,0 +1,2 @@
+alter table houseinfo change dong dongname varchar(40) null default null;
+alter table houseinfo change apartmentName aptName varchar(40) null default null;
