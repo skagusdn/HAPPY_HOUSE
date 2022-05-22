@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:14faa9939f9690cb57bcdaf60d8417fcfab78f03aa2c07536cee2ab11307f3e5
-size 155
+alter table houseinfo change dong dongname varchar(40) null default null;
+alter table houseinfo change apartmentName aptName varchar(40) null default null;
