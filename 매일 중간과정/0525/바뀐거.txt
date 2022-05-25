@@ -1,0 +1,4 @@
+headernave, footer
+memeberRegi
+views 전체
+qna, board 전체
